@@ -1,4 +1,5 @@
-💰 Expense Tracker App
+##💰 Expense Tracker App
+
 A simple and beginner-friendly desktop application to help users track and manage their daily expenses. This project was built using Python and Tkinter as part of my learning journey in programming and GUI development.
 
 🚀 Features
